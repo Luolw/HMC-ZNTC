@@ -1,0 +1,20 @@
+server:
+  port: 8300
+
+spring:
+  application:
+    name: ZNTC-CONFIG-SERVICE
+  cloud:
+    config:
+      label: master # 分支名称
+      server:
+        git:
+          uri: https://gitee.com/zzzlllxxx/hmc/ # git仓库路径
+          search-paths: hmc-zntc-config # 仓库路径
+          # 仓库连接账号密码，公开仓库没有密码
+          username: zlx_ooo@126.com
+          password: wazjmyqd.1019
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:1234@localhost:8000/eureka/

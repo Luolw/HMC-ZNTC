@@ -1,0 +1,138 @@
+2019-01-14 11:13:57.922  INFO 9956 --- [main] com.hmc.zntc.car.ZNTCCarApplication      : The following profiles are active: dev
+2019-01-14 11:13:57.933  INFO 9956 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@be68757: startup date [Mon Jan 14 11:13:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43195e57
+2019-01-14 11:13:58.357  INFO 9956 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=4937340c-8fa1-3eb4-bb05-ae30e940e3bc
+2019-01-14 11:13:58.369  INFO 9956 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:13:58.442  INFO 9956 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8210ba09] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:13:58.685  INFO 9956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8203 (http)
+2019-01-14 11:13:58.708  INFO 9956 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-14 11:13:58.709  INFO 9956 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-01-14 11:13:58.714  INFO 9956 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Go\bin;D:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_181\bin;F:\application\web3j-3.6.0\bin;F:\application\geth;C:\ProgramData\chocolatey\bin;F:\application\erl10.2\bin;F:\application\RabbitMQ Server\rabbitmq_server-3.7.9\sbin;F:\application\consul;C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\;C:\Users\Administrator\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Go\bin;D:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_181\bin;F:\application\web3j-3.6.0\bin;F:\application\geth;C:\ProgramData\chocolatey\bin;E:\mysql-5.7.23-winx64\bin;D:\python\Scripts\;D:\python\;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\go\bin;E:\IDE\apache-maven-3.5.4\bin;;.]
+2019-01-14 11:13:58.817  INFO 9956 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-14 11:13:58.817  INFO 9956 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 884 ms
+2019-01-14 11:13:58.858  INFO 9956 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:13:58.862  INFO 9956 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:13:58.862  INFO 9956 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:13:58.862  INFO 9956 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:13:58.862  INFO 9956 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:13:58.921  WARN 9956 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:13:58.921  INFO 9956 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:13:58.924  WARN 9956 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:13:58.924  INFO 9956 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:13:59.064  INFO 9956 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:13:59.187  INFO 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@be68757: startup date [Mon Jan 14 11:13:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@43195e57
+2019-01-14 11:13:59.224  INFO 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user]}" onto public java.lang.String com.hmc.zntc.car.ZNTCCarApplication.user()
+2019-01-14 11:13:59.225  INFO 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/car]}" onto public java.lang.String com.hmc.zntc.car.ZNTCCarApplication.car()
+2019-01-14 11:13:59.228  INFO 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-14 11:13:59.228  INFO 9956 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-14 11:13:59.245  INFO 9956 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:13:59.245  INFO 9956 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:13:59.741  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-01-14 11:13:59.747  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-14 11:13:59.748  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-14 11:13:59.748  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-14 11:13:59.750  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-14 11:13:59.758  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-14 11:13:59.764  INFO 9956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=be68757,type=ConfigurationPropertiesRebinder]
+2019-01-14 11:13:59.772  INFO 9956 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 0
+2019-01-14 11:13:59.778  INFO 9956 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2019-01-14 11:13:59.801  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2019-01-14 11:13:59.963  INFO 9956 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON encoding codec LegacyJacksonJson
+2019-01-14 11:13:59.963  INFO 9956 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON decoding codec LegacyJacksonJson
+2019-01-14 11:14:00.038  INFO 9956 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML encoding codec XStreamXml
+2019-01-14 11:14:00.038  INFO 9956 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML decoding codec XStreamXml
+2019-01-14 11:14:00.145  INFO 9956 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2019-01-14 11:14:00.187  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2019-01-14 11:14:00.297  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2019-01-14 11:14:00.299  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2019-01-14 11:14:00.301  INFO 9956 --- [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-14 11:14:00.304  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1547435640303 with initial instances count: 1
+2019-01-14 11:14:00.307  INFO 9956 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application ZNTC-CAR with eureka with status UP
+2019-01-14 11:14:00.307  INFO 9956 --- [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1547435640307, current=UP, previous=STARTING]
+2019-01-14 11:14:00.313  INFO 9956 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ZNTC-CAR/192.168.0.8:ZNTC-CAR:8203: registering service...
+2019-01-14 11:14:00.346  INFO 9956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8203 (http) with context path ''
+2019-01-14 11:14:00.347  INFO 9956 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8203
+2019-01-14 11:14:00.350  INFO 9956 --- [main] com.hmc.zntc.car.ZNTCCarApplication      : Started ZNTCCarApplication in 6.071 seconds (JVM running for 7.019)
+2019-01-14 11:14:00.353  INFO 9956 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ZNTC-CAR/192.168.0.8:ZNTC-CAR:8203 - registration status: 204
+2019-01-14 11:14:51.692  INFO 9956 --- [http-nio-8203-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-14 11:14:51.693  INFO 9956 --- [http-nio-8203-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-01-14 11:14:51.713  INFO 9956 --- [http-nio-8203-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 20 ms
+2019-01-14 11:19:00.201  INFO 9956 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-01-14 11:24:00.216  INFO 9956 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-01-14 11:28:53.719  INFO 12268 --- [main] com.hmc.zntc.car.ZNTCCarApplication      : The following profiles are active: dev
+2019-01-14 11:28:53.730  INFO 12268 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@14fc1f0: startup date [Mon Jan 14 11:28:53 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@16d04d3d
+2019-01-14 11:28:54.115  INFO 12268 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=4937340c-8fa1-3eb4-bb05-ae30e940e3bc
+2019-01-14 11:28:54.125  INFO 12268 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:28:54.176  INFO 12268 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8cc02987] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:28:54.397  INFO 12268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8203 (http)
+2019-01-14 11:28:54.411  INFO 12268 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-14 11:28:54.411  INFO 12268 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-01-14 11:28:54.414  INFO 12268 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Go\bin;D:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_181\bin;F:\application\web3j-3.6.0\bin;F:\application\geth;C:\ProgramData\chocolatey\bin;F:\application\erl10.2\bin;F:\application\RabbitMQ Server\rabbitmq_server-3.7.9\sbin;F:\application\consul;C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\;C:\Users\Administrator\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Go\bin;D:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_181\bin;F:\application\web3j-3.6.0\bin;F:\application\geth;C:\ProgramData\chocolatey\bin;E:\mysql-5.7.23-winx64\bin;D:\python\Scripts\;D:\python\;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\go\bin;E:\IDE\apache-maven-3.5.4\bin;;.]
+2019-01-14 11:28:54.503  INFO 12268 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-14 11:28:54.503  INFO 12268 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 773 ms
+2019-01-14 11:28:54.541  INFO 12268 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:28:54.545  INFO 12268 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:28:54.545  INFO 12268 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:28:54.545  INFO 12268 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:28:54.545  INFO 12268 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:28:54.580  WARN 12268 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:28:54.580  INFO 12268 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:28:54.583  WARN 12268 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:28:54.583  INFO 12268 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:28:54.644  INFO 12268 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:28:54.775  INFO 12268 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@14fc1f0: startup date [Mon Jan 14 11:28:53 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@16d04d3d
+2019-01-14 11:28:54.812  INFO 12268 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user]}" onto public java.lang.String com.hmc.zntc.car.ZNTCCarApplication.user()
+2019-01-14 11:28:54.812  INFO 12268 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/car]}" onto public java.lang.String com.hmc.zntc.car.ZNTCCarApplication.car()
+2019-01-14 11:28:54.814  INFO 12268 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-14 11:28:54.815  INFO 12268 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-14 11:28:54.834  INFO 12268 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:28:54.834  INFO 12268 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 11:28:55.360  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-01-14 11:28:55.366  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-14 11:28:55.367  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-14 11:28:55.367  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-14 11:28:55.369  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-14 11:28:55.377  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-14 11:28:55.384  INFO 12268 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=14fc1f0,type=ConfigurationPropertiesRebinder]
+2019-01-14 11:28:55.391  INFO 12268 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 0
+2019-01-14 11:28:55.398  INFO 12268 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2019-01-14 11:28:55.421  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2019-01-14 11:28:55.589  INFO 12268 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON encoding codec LegacyJacksonJson
+2019-01-14 11:28:55.589  INFO 12268 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON decoding codec LegacyJacksonJson
+2019-01-14 11:28:55.668  INFO 12268 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML encoding codec XStreamXml
+2019-01-14 11:28:55.668  INFO 12268 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML decoding codec XStreamXml
+2019-01-14 11:28:55.775  INFO 12268 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2019-01-14 11:28:55.818  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2019-01-14 11:28:55.890  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2019-01-14 11:28:55.891  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2019-01-14 11:28:55.893  INFO 12268 --- [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-14 11:28:55.895  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1547436535895 with initial instances count: 0
+2019-01-14 11:28:55.898  INFO 12268 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application ZNTC-CAR with eureka with status UP
+2019-01-14 11:28:55.898  INFO 12268 --- [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1547436535898, current=UP, previous=STARTING]
+2019-01-14 11:28:55.900  INFO 12268 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ZNTC-CAR/192.168.0.8:ZNTC-CAR:8203: registering service...
+2019-01-14 11:28:55.932  INFO 12268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8203 (http) with context path ''
+2019-01-14 11:28:55.933  INFO 12268 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8203
+2019-01-14 11:28:55.935  INFO 12268 --- [main] com.hmc.zntc.car.ZNTCCarApplication      : Started ZNTCCarApplication in 5.256 seconds (JVM running for 5.745)
+2019-01-14 11:28:55.947  INFO 12268 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ZNTC-CAR/192.168.0.8:ZNTC-CAR:8203 - registration status: 204
+2019-01-14 11:29:25.894  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2019-01-14 11:29:25.894  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2019-01-14 11:29:25.895  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2019-01-14 11:29:25.895  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2019-01-14 11:29:25.895  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2019-01-14 11:29:25.895  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application version is -1: false
+2019-01-14 11:29:25.895  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2019-01-14 11:29:25.956  INFO 12268 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2019-01-14 11:29:48.706  INFO 12268 --- [http-nio-8203-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-14 11:29:48.706  INFO 12268 --- [http-nio-8203-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-01-14 11:29:48.719  INFO 12268 --- [http-nio-8203-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 13 ms

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hmc.zntc</groupId>
+    <artifactId>hmc-zntc</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
+
+    <description>智能停车项目</description>
+
+    <modules>
+        <module>zntc-eureka</module> <!-- 服务注册中心 server -->
+        <module>zntc-gateway</module> <!-- 网关路由 gateway -->
+        <module>zntc-config-service</module> <!-- 配置中心 server -->
+        <module>zntc-admin</module> <!-- 管理后台 基本管理员，权限等 -->
+        <module>zntc-user</module> <!-- 用户服务 -->
+        <module>zntc-car</module> <!-- 车位服务 -->
+        <module>zntc-charger</module> <!-- 电桩服务 -->
+        <module>zntc-order</module>
+        <module>zntc-finance</module> <!-- 订单服务 -->
+    </modules>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.6.RELEASE</version> <!-- 当spring cloud 版本为F的时候，spring boot 的版本为2.1.0 gateway 启动报错，这里用2.0.6正常 -->
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+        <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
+    </properties>
+
+
+    <!-- spring cloud 父依赖 -->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+
+
+</project>

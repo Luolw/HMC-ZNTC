@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hmc.zntc.admin.mapper.SmsMapper">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.hmc.zntc.admin.entity.SmsEntity" id="smsMap">
+        <result property="id" column="id"/>
+        <result property="phoneNumber" column="phone_number"/>
+        <result property="busicCode" column="busic_code"/>
+        <result property="verifyCode" column="verify_code"/>
+        <result property="sendTime" column="send_time"/>
+        <result property="expireTime" column="expire_time"/>
+        <result property="validMinus" column="valid_minus"/>
+        <result property="state" column="state"/>
+    </resultMap>
+
+
+</mapper>

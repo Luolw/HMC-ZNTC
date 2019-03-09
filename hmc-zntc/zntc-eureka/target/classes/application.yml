@@ -1,0 +1,21 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: ZNTC-EUREKA
+  security:
+    basic:
+      enabled: true
+    user:
+      name: user
+      password: 1234
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWith-eureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

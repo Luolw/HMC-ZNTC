@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c11df870-4690-48fd-b7eb-abca8ca8c532" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/anchor/anchor.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/anchor/anchor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/attachment/attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/attachment/attachment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/background/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/background/background.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/charts/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/charts/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/emotion/emotion.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/emotion/emotion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/gmap/gmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/gmap/gmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/help/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/help/help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/image/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/image/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/insertframe/insertframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/link/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/map/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/map/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/map/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/map/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/music/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/music/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/scrawl.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/searchreplace/searchreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/snapscreen/snapscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/spechars/spechars.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/spechars/spechars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittable.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittd.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittip.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/table/edittip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/template/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/template/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/video/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/video/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/webapp/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/webapp/webapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc-admin-page/templates/modules/app/advert.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc-admin-page/templates/modules/app/advert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/o2c.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/o2c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/oauth2-redirect.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/static/swagger/oauth2-redirect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/generator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/hmc-zntc/zntc-admin/generator/src/main/resources/views/main.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-109804427">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="md" value="3" />
+          <entry key="sql" value="1" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="Markdown" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc-zntc/智能停车项目后端架构图.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc-zntc/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="504">
+                <caret line="36" column="49" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-eureka/src/main/java/com/hmc/zntc/eureka/ZNTCEurekaApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-admin/common/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc-zntc/doc/hmc-zntc.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2121">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>application-dev.yml</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\HMC-ZNTC\hmc\hmc-zntc\zntc-admin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hmc-zntc/zntc-admin/common/src/main/resources/application-dev.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/hmc-zntc-admin-page/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="436" />
+    <option name="y" value="92" />
+    <option name="width" value="982" />
+    <option name="height" value="863" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hmc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc" type="462c0819:PsiDirectoryNode" />
+              <item name="hmc-zntc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548317436079" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c11df870-4690-48fd-b7eb-abca8ca8c532" name="Default Changelist" comment="" />
+      <created>1548315449825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548315449825</updated>
+      <workItem from="1548315451263" duration="1954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/智能停车项目后端架构图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/doc/hmc-zntc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2121">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-admin/admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-admin/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-admin/common/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="504">
+            <caret line="36" column="49" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc-zntc/zntc-eureka/src/main/java/com/hmc/zntc/eureka/ZNTCEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
